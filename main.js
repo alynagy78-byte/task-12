@@ -6,7 +6,7 @@ if (answer1 == "paris") {
     console.log("Q1: true");
 } else {
     window.alert("Wrong Answer.");
-    console.log("Q1: false");
+    console.log("Q1: false (paris)");
 }
 // age check
 var age = window.prompt("Enter your age:");
@@ -25,7 +25,7 @@ if (answer2 == "الفهد اسرع") {
     console.log("Q2: true");
 } else {
     window.alert("غلط");
-    console.log("Q2: false");
+    console.log("Q2: false (الفهد اسرع)");
 }
 // Question 3
 var answer3 = window.prompt("ايه هي اكبر دوله في العالم؟");
@@ -35,7 +35,7 @@ if (answer3 == "روسيا") {
     console.log("Q3: true");
 } else {
     window.alert("غلط");
-    console.log("Q3: false");
+    console.log("Q3: false (روسيا)");
 }
 
 window.alert("Game Over :)");
