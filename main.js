@@ -38,4 +38,4 @@ if (answer3 == "روسيا") {
     console.log("Q3: false (روسيا)");
 }
 
-window.alert("Game Over :)");
+window.alert("Game Over (you can check the answers in the console) :)");
